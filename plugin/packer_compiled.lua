@@ -139,6 +139,11 @@ _G.packer_plugins = {
     path = "/home/ihtesham/.local/share/nvim/site/pack/packer/start/darkplus.nvim",
     url = "https://github.com/lunarvim/darkplus.nvim"
   },
+  ["formatter.nvim"] = {
+    loaded = true,
+    path = "/home/ihtesham/.local/share/nvim/site/pack/packer/start/formatter.nvim",
+    url = "https://github.com/mhartington/formatter.nvim"
+  },
   ["friendly-snippets"] = {
     loaded = true,
     path = "/home/ihtesham/.local/share/nvim/site/pack/packer/start/friendly-snippets",
@@ -278,6 +283,11 @@ _G.packer_plugins = {
     loaded = true,
     path = "/home/ihtesham/.local/share/nvim/site/pack/packer/start/vim-illuminate",
     url = "https://github.com/RRethy/vim-illuminate"
+  },
+  ["vim-react-html-snippets"] = {
+    loaded = true,
+    path = "/home/ihtesham/.local/share/nvim/site/pack/packer/start/vim-react-html-snippets",
+    url = "https://github.com/cristianoliveira/vim-react-html-snippets"
   },
   ["which-key.nvim"] = {
     loaded = true,

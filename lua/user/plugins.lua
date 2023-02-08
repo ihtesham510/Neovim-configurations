@@ -58,6 +58,7 @@ return packer.startup(function(use)
   -- lualine
   
   use { "nvim-lualine/lualine.nvim", commit = "a52f078026b27694d2290e34efa61a6e4a690621" }
+  -- react snippet
 
 
 	-- Colorschemes
@@ -92,6 +93,12 @@ return packer.startup(function(use)
 
 	-- Telescope
 	use { "nvim-telescope/telescope.nvim", commit = "76ea9a898d3307244dce3573392dcf2cc38f340f" }
+  -- jsx and html snippets
+  use 'cristianoliveira/vim-react-html-snippets'
+  -- formatter for nvim
+  use 'mhartington/formatter.nvim'
+
+
 
 	-- Treesitter
 	use {

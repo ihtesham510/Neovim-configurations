@@ -1,3 +1,10 @@
 {
-  "snippets.ultisnips.pythonPrompt": false
+  "coc.preferences.formatOnSave": true,
+  "snippets.ultisnips.pythonPrompt": false,
+  // prettier settings
+  "javascript.format.enable": true,
+  "javascript.suggest.autoImports": true,
+  "javascript.suggest.enabled": true,
+  "javascript.format.semicolons": true,
+  "javascript.autoClosingTags": true
 }
