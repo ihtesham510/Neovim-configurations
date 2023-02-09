@@ -6,6 +6,7 @@
   "javascript.suggest.autoImports": true,
   "javascript.suggest.enabled": true,
   "javascript.format.semicolons": true,
+  "javascript.format.insertSpaceAfterCommaDelimiter": true,
   "javascript.autoClosingTags": true,
   "emmet.includeLanguages": {
     "vue-html": "html",
