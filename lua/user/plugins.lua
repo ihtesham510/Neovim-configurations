@@ -58,7 +58,6 @@ return packer.startup(function(use)
   -- lualine
   
   use { "nvim-lualine/lualine.nvim", commit = "a52f078026b27694d2290e34efa61a6e4a690621" }
-  -- react snippet
 
 
 	-- Colorschemes
@@ -97,6 +96,7 @@ return packer.startup(function(use)
   use 'cristianoliveira/vim-react-html-snippets'
   -- formatter for nvim
   use 'mhartington/formatter.nvim'
+
 
 
 
